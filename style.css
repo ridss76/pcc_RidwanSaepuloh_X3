@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #00FFFF;
 }
 .card {
     margin-top: 50px;
@@ -13,9 +13,9 @@ body {
     margin-bottom: 20px;
 }
 .btn-instagram {
-    background-color: #e1306c;
+    background-color: #00CED1;
     color: white;
 }
 .btn-instagram:hover {
-    background-color: #c1275b;
+    background-color: #00BFFF;
 }
